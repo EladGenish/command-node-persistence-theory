@@ -4,6 +4,12 @@
 **Status:** Ongoing theoretical project  
 **Started:** 2026
 
+## Read the theory
+
+📄 **[CNPT Formal Edition — 14 July 2026](theory/CNPT_Formal_Edition_2026-07-14.md)**
+
+This is the current repository-readable edition of the framework. It contains the full architecture, definitions, formal schema, propositions, worked examples, anti-corruption rules, and conclusion.
+
 ## Introduction
 
 Command–Node Persistence Theory is an ongoing framework for analysing how objects persist under what bears on them, how maintained structures form, how higher-order objects are sustained by lower maintenance worlds, and what happens when that maintenance becomes hollow, reorganises, fragments, or collapses.
